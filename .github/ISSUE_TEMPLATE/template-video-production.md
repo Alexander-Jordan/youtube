@@ -120,7 +120,9 @@ _*Drop all final versions you made here_
 
 # 3. Plan
 
-_*TODO_
+| **Gathered** | **Description**                                    | **Chapter** | **Shot**                         | **Type**                                         | **Location** | **Script text**             |
+|--------------|----------------------------------------------------|-------------|----------------------------------|--------------------------------------------------|--------------|-----------------------------|
+| [ ]          | Write here how you envision your shot to look like | Act 1       | Wide \| Medium \| Close \| Macro | A-Roll \| B-Roll \| Screen \| Stock \| Animation |              | Paste your script line here |
 
 # 4. Checklists
 
