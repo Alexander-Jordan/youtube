@@ -120,6 +120,8 @@ _*Drop all final versions you made here_
 
 # 3. Plan
 
+[Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
+
 | **Gathered** | **Description**                                    | **Chapter** | **Shot**                         | **Type**                                         | **Location** | **Script text**             |
 |--------------|----------------------------------------------------|-------------|----------------------------------|--------------------------------------------------|--------------|-----------------------------|
 | [ ]          | Write here how you envision your shot to look like | Act 1       | Wide \| Medium \| Close \| Macro | A-Roll \| B-Roll \| Screen \| Stock \| Animation |              | Paste your script line here |
@@ -131,7 +133,7 @@ _*Drop all final versions you made here_
 
   - [ ]  Add thumbnail
   - [ ]  Add description
-    - [ ]  CTA Sponsor + Short sentences that are SEO optimised for algorithm
+    - [ ]  CTA Sponsor + Short sentences that are SEO optimized for algorithm
     - [ ]  Test Sponsor link(s)
     - [ ]  Add other links if necessary
     - [ ]  Make Chapters on YouTube
@@ -148,17 +150,17 @@ _*Drop all final versions you made here_
   - [ ]  Make Reel/clips
   - [ ]  Share on social media
   - [ ]  Check for comments
-  - [ ]  After 3h, check baseline of CTR and Impressions
-    - [ ]  If CTR & Impressions is lower than baseline → Change Thumbnail to “Thumbnail 2”
-    - [ ]  After 3h, check baseline of CTR and Impressions
-      - [ ]  If CTR & Impressions is lower than baseline → Change Title to “Title 2”
+  - [ ]  After 3h, check the baseline of CTR and Impressions
+    - [ ]  If CTR & Impressions are lower than baseline → Change Thumbnail to “Thumbnail 2”
+    - [ ]  After 3h, check the baseline of CTR and Impressions
+      - [ ]  If CTR & Impressions are lower than baseline → Change Title to “Title 2”
       - [ ]  Check baseline of CTR and Impressions
-        - [ ]  If CTR & Impressions is lower than baseline → Change Thumbnail to “Thumbnail 3”
+        - [ ]  If CTR & Impressions are lower than baseline → Change Thumbnail to “Thumbnail 3”
         - [ ]  Check baseline of CTR and Impressions
-          - [ ]  If CTR & Impressions is lower than baseline → Change Title to “Title 3”
+          - [ ]  If CTR & Impressions are lower than baseline → Change Title to “Title 3”
           - [ ]  Check baseline of CTR and Impressions
-            - [ ]  If CTR & Impressions is lower than baseline → Change Thumbnail to “Thumbnail 4”
+            - [ ]  If CTR & Impressions are lower than baseline → Change Thumbnail to “Thumbnail 4”
             - [ ]  Check baseline of CTR and Impressions
-              - [ ]  If CTR & Impressions is lower than baseline → Change Title to “Title 4”
+              - [ ]  If CTR & Impressions are lower than baseline → Change Title to “Title 4”
               - [ ]  Cry if it’s not working ;)
 </details>
