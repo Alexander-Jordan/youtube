@@ -1,7 +1,14 @@
-```md
 # 2. Write
 
-## 3 Act structure
+## Research
+
+_*This is where you can gather all the research you’re doing for the video_
+
+## Full Script
+
+_*Here you can write the full script in one go. Sometimes it helps to have it all together._
+
+## Script - 3 Act Structure
 
 <details>
   <summary>Image</summary>
@@ -10,71 +17,28 @@
 
 </details>
 
-### Resources
+### Act 1 - 20% of the video
 
-<details>
-  <summary>Research</summary>
+_*Hook_
 
-  _*This is where you can gather all the research you’re doing for the video_
-</details>
+_*Intro_
 
-<details>
-  <summary>Full Script</summary>
+_*Re-engagement 1_
 
-  _*Here you can write the full script in one go. Sometimes it helps to have it all together._
-</details>
+### Act 2 - 60% of the video
 
-### Script
+_*Setup_
 
-<details>
-  <summary><strong>Act 1 - 20% of the video</strong></summary>
+_*Re-engagement 2_
 
-  <details>
-    <summary>Hook</summary>
-  </details>
+_*Re-engagement 3_
 
-  <details>
-    <summary>Intro</summary>
-  </details>
+_*Re-engagement 4_
 
-  <details>
-    <summary>Re-engagement 1</summary>
-  </details>
-</details>
+### Act 4 - 20% of the video
 
-<details>
-  <summary><strong>Act 2 - 60% of the video</strong></summary>
+_*Climax_
 
-  <details>
-    <summary>Setup</summary>
-  </details>
+_*Goosh_
 
-  <details>
-    <summary>Re-engagement 2</summary>
-  </details>
-
-  <details>
-    <summary>Re-engagement 3</summary>
-  </details>
-
-  <details>
-    <summary>Re-engagement 4</summary>
-  </details>
-</details>
-
-<details>
-  <summary><strong>Act 3 - 20% of the video</strong></summary>
-
-  <details>
-    <summary>Climax</summary>
-  </details>
-
-  <details>
-    <summary>Goosh</summary>
-  </details>
-
-  <details>
-    <summary>Wrap-up</summary>
-  </details>
-</details>
-```
+_*Wrap-up_
