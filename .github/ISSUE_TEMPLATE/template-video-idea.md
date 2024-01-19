@@ -10,30 +10,31 @@ assignees: ''
 
 ### Tags
 
-- List some tags like genre, mood, or general associations to give an idea of what the video is about
+- `List some tags like genre, mood, or general associations to give an idea of what the video is about`
 
 ### Suggested titles
 
-- List some suggested titles to give an idea of what the video is about
+- `List some suggested titles to give an idea of what the video is about`
 
-### Outline (short & concise):
+### Questions to think about 
 
-```
-Write out a general idea here, no longer than 2-3 sentences or 239 characters
-```
+- What do you want to achieve with this video?
+- Who is the audience?
+- What’s your call-to-action?
+- What kind of value are you providing, and how are you enriching your viewers’ day?
 
-### Summary (longer with depth):
-
-```
-Write out a much deeper description and analysis of the storyline from start to finish
-```
-
-### Synopsis (detailed breakdown):
+### Brief
 
 ```
-Write out a detailed description of the entire plot
+Write out a general idea here, no longer than 2-3 sentences.
+```
+
+### Summary
+
+```
+Write out a much deeper description of the storyline from start to finish
 ```
 
 ### Inspiration
 
-*List other videos, plots, or anything else that sparked or inspired this idea
+- List other videos, plots, or anything else that sparked or inspired this idea
