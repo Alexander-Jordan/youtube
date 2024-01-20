@@ -18,10 +18,14 @@ assignees: ''
 
 ### Questions to think about 
 
-- What do you want to achieve with this video?
-- Who is the audience?
-- What’s your call-to-action?
-- What kind of value are you providing, and how are you enriching your viewers’ day?
+#### Q: What do you want to achieve with this video?
+A: 
+#### Q: Who is the audience?
+A:
+#### Q: What’s your call-to-action?
+A:
+#### Q: What kind of value are you providing, and how are you enriching your viewers’ day?
+A: 
 
 ### Brief
 
