@@ -1,4 +1,3 @@
-```md
 # 3. Plan
 
 [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
@@ -39,4 +38,3 @@
 | **Gathered** | **Description**                                    | **Chapter** | **Shot**                                                             | **Framing**                             | **Type**                                         | **Location** | **Script text**             |
 |--------------|----------------------------------------------------|-------------|----------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------|--------------|-----------------------------|
 | [ ]          | Write here how you envision your shot to look like | Act 1       | ES \| EWS \| MaS \| WS \| FS \| MWS \| MFS \| MS \| MCU \| CU \| ECU | S \| TS \| MS \| CS \| OTS \| POV \| IS | A-Roll \| B-Roll \| Screen \| Stock \| Animation |              | Paste your script line here |
-```
