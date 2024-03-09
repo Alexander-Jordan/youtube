@@ -22,6 +22,8 @@ assignees: ''
 A: 
 #### Q: Who is the audience?
 A:
+#### Q: What specific gear (hardware/software) is recuired?
+A:
 #### Q: What’s your call-to-action?
 A:
 #### Q: What kind of value are you providing, and how are you enriching your viewers’ day?
