@@ -1,2 +1,2 @@
 # About
-This repository is simply to be used to plan, script & organize my YouTube videos & channel.
+A collection of resources for [the bbit YouTube channel](https://www.youtube.com/@bbitofficial), including planning & scripting.
